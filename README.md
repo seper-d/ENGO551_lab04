@@ -17,6 +17,6 @@ ENGO 551 - Adv. Topics on Geospatial Technologies
 - To access the messages, download and install MQTTX. 
 
 # File Descriptions
-index.html: Contains the html and css code for the webpage.
-script.js: Contains the javascript code including the GeoJSON, poho and MQTT protocol functions and implemetnations
-static: contains images used in the html code.
+- index.html: Contains the html and css code for the webpage.
+- script.js: Contains the javascript code including the GeoJSON, poho and MQTT protocol functions and implemetnations
+- static: contains images used in the html code.
